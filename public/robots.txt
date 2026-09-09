@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samiullah.netlify.app/sitemap.xml

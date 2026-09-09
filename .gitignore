@@ -1,0 +1,28 @@
+# --- OS files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editors & IDEs ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Dependencies & build output ---
+node_modules/
+dist/
+build/
+*.log
+
+# --- Environment & secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Netlify local state ---
+.netlify/
+
+# --- Misc ---
+*.tmp
+*.bak
