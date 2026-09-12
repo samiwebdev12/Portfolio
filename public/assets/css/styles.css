@@ -1,5 +1,4 @@
-﻿/* ===================== Reset & base ===================== */
-
+﻿
 * {
     margin: 0;
     padding: 0;
@@ -56,7 +55,6 @@ ul {
     border: 0;
 }
 
-/* ===================== Layout & utilities ===================== */
 
 .container {
     width: 100%;
@@ -174,7 +172,7 @@ ul {
     width: 100%;
 }
 
-/* Hero / section / footer helpers */
+
 
 .hero-top-pad {
     padding-top: 80px;
@@ -1052,7 +1050,7 @@ textarea.form-input {
         padding: 34px 28px;
     }
 
-    /* avoids iOS auto-zooming when a field is focused */
+    
     input.form-input,
     textarea.form-input {
         font-size: 16px;
@@ -1118,7 +1116,7 @@ textarea.form-input {
     }
 }
 
-/* keeps the send button large at every screen size (overrides the mobile padding shrink) */
+ 
 .submit-btn {
     padding: 16px 56px;
 }
